@@ -4,7 +4,7 @@ internal class Program
 {
     public static void Main(string[] args)
     {
-        string folderPath = @"C:\Users\ahmet\Desktop\deneme\A'dan Z'ye Entity Framework Core Eğitimi";
+        string folderPath = @"C:\path\to\folder";
 
         try
         {
